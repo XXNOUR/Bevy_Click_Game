@@ -7,7 +7,7 @@ Make sprites grow/shrink with animation  [Done}
 
 Level 2 - Add game mechanics:
 
-Turn it into a simple clicker game (click sprites to destroy them)
+Turn it into a simple clicker game (click sprites to destroy them) [Done]
 Add collision detection between sprites
 Create a simple "catch the falling sprites" game
 Add score/counter system
